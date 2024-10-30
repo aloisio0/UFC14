@@ -12,7 +12,7 @@ As funções são acessíveis no menu e na barras de ferramentas do plugin QGIS.
 ![image](https://github.com/user-attachments/assets/e6795844-6972-4fcd-bded-46dd2bfc898c)
 
 <div align="center">
-<img src="[https://github.com/user-attachments/assets/456370e0-298f-4fad-9258-9c904636c6ed](https://github.com/user-attachments/assets/e6795844-6972-4fcd-bded-46dd2bfc898c)" width = "300px" />
+<img src="[https://github.com/user-attachments/assets/456370e0-298f-4fad-9258-9c904636c6ed](https://github.com/user-attachments/assets/e6795844-6972-4fcd-bded-46dd2bfc898c)" width = "200px" />
 </div>
 
  # Bibliotecas Usadas:
