@@ -15,8 +15,26 @@ As funções são acessíveis no menu e na barras de ferramentas do plugin QGIS.
 <img src="[https://github.com/user-attachments/assets/456370e0-298f-4fad-9258-9c904636c6ed](https://github.com/user-attachments/assets/e6795844-6972-4fcd-bded-46dd2bfc898c)" width = "200px" />
 </div>
 
- 1. *Criar Rede*:
- 2. *Importar Rede*:
+ 1. **Criar Rede**
+ 2. **Importar Rede**
+ 3. **Configurações UFC14**
+ 4. **Inserir RNF**
+ 5. **Inserir RNV**
+ 6. **Inserir Tubulação**
+ 7. **Inserir Adutora**
+ 8. **Inserir Bomba**
+ 9. **Poço Profundo**
+ 10. **Estação de Bombeamento**
+ 11. **Inserir Válvula**
+ 12. **Curvas**
+ 13. **Padrões**
+ 14. **Controles**
+ 15. **Editar**
+ 16. **Pagar**
+ 17. **Simular**
+ 18. **Dimensionar Rede**
+ 19. **Resultados**
+ 20. **Ajuda**
  
  # Bibliotecas Usadas:
  - WNTR (https://github.com/USEPA/WNTR)
