@@ -6,7 +6,7 @@ O UFC14 é um plugin desenvolvido pelo Laboratório de Hidráulica Computacional
  - Criação e edição de redes de abastecimento de água; 
  - Exportação da rede, criação de arquivos EPANET INP; 
  - Simulação Hidráulica, necessário instalar o pacote Python WNTR; 
- - Dimensionamento da rede com base na Pressão Mínima da Rede (mca) e Perda de Carga Unitária Máxima (m).
+ - Dimensionamento da rede com base na Pressão Mínima da Rede (m) e Perda de Carga Unitária Máxima (m/km).
 
 As funções são acessíveis no menu e na barras de ferramentas do plugin QGIS.
 ![image](https://github.com/user-attachments/assets/e6795844-6972-4fcd-bded-46dd2bfc898c)
