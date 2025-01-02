@@ -30,7 +30,7 @@ As funções são acessíveis no menu e na barras de ferramentas do plugin QGIS.
  13. **Padrões**
  14. **Controles**
  15. **Editar**
- 16. **Pagar**
+ 16. **Apagar**
  17. **Simular Rede**
  18. **Dimensionar Rede**
  19. **Navegador de Resultados**
