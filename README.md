@@ -1,7 +1,7 @@
 # UFC14 <img src="https://github.com/user-attachments/assets/456370e0-298f-4fad-9258-9c904636c6ed" width = "40px" />
 </div>
 
-O UFC14 é um plugin desenvolvido pelo Laboratório de Hidráulica Computacional (http://www.lahc.ufc.br/) da Universidade Federal do Ceará (UFC). Ele permite projetar e analisar redes de abastecimento de água usando o EPANET, para isso é empregado o WNTR (Water Network Tool for Resilience), pacote Python de código aberto projetado para simulação hidráulica e de qualidade da água. Dentre as ferramentas do plugin, destacam-se:
+O UFC14 é um plugin desenvolvido pelo Laboratório de Hidráulica Computacional (http://www.lahc.ufc.br/) da Universidade Federal do Ceará (UFC). Ele permite projetar e analisar redes de abastecimento de água usando o EPANET, para isso é empregado o WNTR (Water Network Tool for Resilience), pacote Python de código aberto projetado para simulação hidráulica e de qualidade da água (https://github.com/USEPA/WNTR). Dentre as ferramentas do plugin, destacam-se:
  - Importação de redes, a partir da leitura de arquivos EPANET(.inp); 
  - Criação e edição de redes de abastecimento de água; 
  - Exportação da rede, criação de arquivos EPANET INP; 
